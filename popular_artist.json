@@ -1,0 +1,19 @@
+{
+  "singers": [
+    {
+      "name": "J COLE",        
+      "title": "MIDDLE CHILD",
+      "rating": 4.5
+    },
+    {
+      "name": "JUICE WRLD",
+      "title": "ALL GIRLS ARE THE SAME",
+      "rating": 4.5 
+    },
+    {
+      "name": "XXX TENTCTAC",
+      "title": "HOPE",
+      "rating": 4.5
+    }
+  ]
+}

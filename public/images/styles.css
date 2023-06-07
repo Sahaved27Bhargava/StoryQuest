@@ -1,0 +1,210 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+h1,h3{
+ color: #854d27;
+}
+
+h2,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+hr{
+    border-top: 2px dotted #854d27;
+    border-width: 1em;
+}
+
+
+/* Heading Section*/
+
+.body-heding {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: rgba(255, 153, 0, 0.848);
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.dish{
+    font-size: 1.6rem;
+    color: #dd7230;
+}
+
+
+/* Containers */
+.container-fluid {
+    padding: 7% 15%;
+
+}
+.dot{
+    color: green;
+}
+
+
+/* Navigation bar  */
+
+.navbar {
+    padding: 0 0 8.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ff5100;
+}
+.navbar-brand:hover{
+    color:#33ff00f0;
+    
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: #dd7230;
+}
+
+.Download_button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Section */
+
+
+#title .container-fluid {
+    padding: 2% 10% 12%;
+    text-align: left;
+    background-color: #04030f;  
+    color:#e7e393
+    
+
+}
+
+.title-image {
+    width: 32%;
+    bottom: 7%;
+    position: absolute;
+    right: 15%
+}
+
+
+
+
+/* Feature Section */
+
+#features {
+    background-image: linear-gradient(to right, #e7e393, #dd7230);
+    z-index: 1;
+    position: relative;
+}
+
+
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+.feature-box {
+    padding: 5%
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+.feature-image{
+    width: 60%;
+    height: 45%;
+}
+
+
+/* Moving Section */
+
+.moving-images{
+    width: 1200px;
+    height: 700px;
+    padding: 20px 10px 50px 0;
+    border-radius: 50px;
+}
+
+.mov-img{
+    background-image: linear-gradient(to right, #e7e393, #dd7230);
+}
+
+/* Menu Section*/
+
+#menu {
+    padding: 100px 180px;
+    background-image: url(/images/back.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+.menu-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.menu-column {
+    padding: 5% 2%;
+}
+
+.card{
+    background-image: linear-gradient(to right, #e7e393a9, #cda945ac);
+    width: 20rem;
+}
+.card-img{
+    width: 50%;
+    height: 50%;
+    
+}
+
+#cta{
+    background-image: linear-gradient(to right, #e7e393, #dd7230);
+}
+
+
+/* Footer Section */
+#footer{
+    background-image: url(/images/footer-img.jpg);
+    
+}
+.icon-footer {
+    margin: 5% 1.5%;
+}
+
+.up{
+    font-size: 3rem;
+    text-align: right;
+    color: #dd9d06cd;
+}
+
+.up:hover{
+    color:#854d27;
+}
+.app{
+    color: rgba(189, 123, 11, 0.821);   
+}
